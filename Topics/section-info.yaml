@@ -1,0 +1,14 @@
+content:
+- Window listeners
+- Standard functional interfaces
+- Optional
+- Function composition
+- Functional data processing with streams
+- Stream filtering
+- Map and flatMap
+- Reduction methods
+- Collectors
+- Infinite streams
+- Taking elements
+- Streams of primitives
+- Stream pipelines

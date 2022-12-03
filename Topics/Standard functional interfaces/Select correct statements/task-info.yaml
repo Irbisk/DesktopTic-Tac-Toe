@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: There is no standard functions which takes three arguments.
+- text: Some functional interfaces have single abstract methods which don't return
+    any values.
+- text: Predicates always return true or false.
+- text: All standard functional interfaces are generic types.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2392#comment
+status: Unchecked
+record: -1
